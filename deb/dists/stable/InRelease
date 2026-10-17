@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 17 Oct 2026 10:26:16 +0000
+Label: MDViewer
+Origin: MDViewer
+Suite: stable
+MD5Sum:
+ 4308653549cd150dcf768c0c518afa90              683 main/binary-amd64/Packages
+ dda1a79824286691046feb752433ee5c              492 main/binary-amd64/Packages.gz
+SHA1:
+ f921d4a48f4bd4dc77db8919e80a2e2db3260320              683 main/binary-amd64/Packages
+ 1ce35a24d6045c631bcd48f848f7a0d30777bffc              492 main/binary-amd64/Packages.gz
+SHA256:
+ 0f1851ce7543f443da84cafddab7b1fc498715b6e90ab8c648690065a49cd20e              683 main/binary-amd64/Packages
+ 5b975f3976436d2f256a483783e68145aaec63bc06775b3e5bca1e67611ad8e7              492 main/binary-amd64/Packages.gz
+SHA512:
+ 88af4f39a303f88fcdf432e7587215fb37d66c44ced6046c19a9f1eaafbcae62cf0a4afe3f82941a56ad56ec43cefbca0bcb0611d0d3e0c963e2e3d624607a19              683 main/binary-amd64/Packages
+ aef1ef9ed80edfef103add030ffa18e5a31c90fd95a8cb4f245f6f6c9b3e6ab8ad58635ec033e1ee71760672908d54b90c72279206625f7e7ee0fcb3ec5f882c              492 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEz2UU+P+F/LOD8kwU16FhWckTUgsFAmrTTUgACgkQ16FhWckT
+Ugu2XQ//crW++C+eYphiaAE+syx+Y+MdtS5JdGmjOY44Fe+7Mj0EliCmgWk6wDfx
+hWjFIL4FC+qjOdUC6V2v4aeXkqepLe+ZBZa3FAvG+1YCi2vxxuR8hp88x0T9Ugk5
+D3gNLWVNrWoYQEAK8RgXqPZfDLs81MOJB+5sYY+j3VTTnFr8NuRaSCPedanQy7b9
+zK+vUaBuqQR46roPWdEIRl9LQ0qutn1KHdncpZb02QUvuagpdrbs8EJeUUfKwzZe
++/A1v49JAsIzSUX4n9kn+Hfy7+5Eb3aYTJE/g09FnpkPQJvIk+iKPclNmtsHql+x
+W7a87CG2NA+kUMXPVfoIHZgWPc0NquGAoP+K8SduAURtQQuA6sCirK2GyqENg2cU
+OT62BsZLKQU5ugkTU6h5t3lYP0yrChjBWLaviKRsdEUphynu7Hv9trCB/yv+wXFX
+brxRIC/6jrpUBhmNlT+HrfeyzgZzg6kF82P4TvyIOQMVWk9ITHb2pFE/vS6fL9fn
+N2LcAtL16KXPeQxIUTVs2AHn4nyxIQhSKPMKJ796fFk5+xAKdDQbVIuLO7gmXL+A
+vePw4I62wAUqTW+5qBdTPKoyqVKt7ka9LBBuxFQU7egL07Xc/ipVTj+yLDwjL7uG
+BmauUuZLJ+r/oapkdHV50bFuekD2Laesweiv3FgDjvJ6Qp0Jxls=
+=HL+w
+-----END PGP SIGNATURE-----

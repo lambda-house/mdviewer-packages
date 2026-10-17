@@ -1,0 +1,16 @@
+Package: md-viewer
+Architecture: amd64
+Version: 1.1.0
+Priority: optional
+Maintainer: Lambda House
+Installed-Size: 26342
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/MDViewer_1.1.0_amd64.deb
+Size: 10714456
+MD5sum: 4fc9044ae01c822debc7b199c30a8677
+SHA1: 00eeca854aff3623a713b07f8a2ac80e0cc783fc
+SHA256: ab1ec231da9eb658967d22616517d4260ad13c14534e1c846872bff6e3d3de77
+SHA512: 2bf3eda444789efe0a85aafaf32400a5c7a3dd9862ca1826de5717b4563fad5d1123d8157a2f60eea64ad0e79516a06a5ab7f5f3b44cf897fabaa3d39745c5bd
+Description: Markdown Document Viewer
+ A powerful markdown document viewer with Mermaid support, syntax highlighting, and an elegant IntelliJ-inspired dark theme.
+
