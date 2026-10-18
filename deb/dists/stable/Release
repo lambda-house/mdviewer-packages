@@ -1,19 +1,19 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sat, 17 Oct 2026 10:26:16 +0000
+Date: Sun, 18 Oct 2026 10:25:49 +0000
 Label: MDViewer
 Origin: MDViewer
 Suite: stable
 MD5Sum:
- 4308653549cd150dcf768c0c518afa90              683 main/binary-amd64/Packages
- dda1a79824286691046feb752433ee5c              492 main/binary-amd64/Packages.gz
+ ce1c03c8a75f28510e7f500c4f1077ce             1366 main/binary-amd64/Packages
+ 170f52582a9397cd6a36adfd04a2386f              692 main/binary-amd64/Packages.gz
 SHA1:
- f921d4a48f4bd4dc77db8919e80a2e2db3260320              683 main/binary-amd64/Packages
- 1ce35a24d6045c631bcd48f848f7a0d30777bffc              492 main/binary-amd64/Packages.gz
+ 1be449104bdb1fa087474a70cc1d546136def504             1366 main/binary-amd64/Packages
+ c3589c4e496caf3e3d6af516161833ab6abf437b              692 main/binary-amd64/Packages.gz
 SHA256:
- 0f1851ce7543f443da84cafddab7b1fc498715b6e90ab8c648690065a49cd20e              683 main/binary-amd64/Packages
- 5b975f3976436d2f256a483783e68145aaec63bc06775b3e5bca1e67611ad8e7              492 main/binary-amd64/Packages.gz
+ 2c862038659e46bdab7a3d767574bcef132a39526036ff31a5f25cf6d9a4c13b             1366 main/binary-amd64/Packages
+ 51c2552c8ae9598d60d43f34fac86579e6a55c0b805713486f11c9fa9e1e5b1a              692 main/binary-amd64/Packages.gz
 SHA512:
- 88af4f39a303f88fcdf432e7587215fb37d66c44ced6046c19a9f1eaafbcae62cf0a4afe3f82941a56ad56ec43cefbca0bcb0611d0d3e0c963e2e3d624607a19              683 main/binary-amd64/Packages
- aef1ef9ed80edfef103add030ffa18e5a31c90fd95a8cb4f245f6f6c9b3e6ab8ad58635ec033e1ee71760672908d54b90c72279206625f7e7ee0fcb3ec5f882c              492 main/binary-amd64/Packages.gz
+ 099ebe7c3a27f14789a0da0a20e5cddd9a805f957844f292e6129b5efc51d3743a274052a0e93e7505fca62c97cce7154cb1abae128d7a58f26e0a3050504691             1366 main/binary-amd64/Packages
+ d3985b62921bfaad7af32300e5690935e3e36c4516d2e41b7316e9e99bafbbad3152ed078b90051994ab72f393e6e0e99bb7498e00b8e2d9273ef5160383de0c              692 main/binary-amd64/Packages.gz

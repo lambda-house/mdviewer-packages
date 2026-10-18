@@ -14,3 +14,19 @@ SHA512: 2bf3eda444789efe0a85aafaf32400a5c7a3dd9862ca1826de5717b4563fad5d1123d815
 Description: Markdown Document Viewer
  A powerful markdown document viewer with Mermaid support, syntax highlighting, and an elegant IntelliJ-inspired dark theme.
 
+Package: md-viewer
+Architecture: amd64
+Version: 1.1.1
+Priority: optional
+Maintainer: Lambda House
+Installed-Size: 26341
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/MDViewer_1.1.1_amd64.deb
+Size: 10709920
+MD5sum: 70b5c48a417a277ba058cd53bbcb4e15
+SHA1: 668cc3a1cfd300706da85b02cc4db12e442b2360
+SHA256: 24dbf28954222b67931db2eaec4b562332588e1fcbeed1ece985c131563529c2
+SHA512: 0f339bb6eecfb2e16734a09f9cc0a82c35fc2bef80d070d9174d8ab676599b42661536e7f96e6f90dabd3384304771b1322eed3ad34c401bcff2ceb0c1251c81
+Description: Markdown Document Viewer
+ A powerful markdown document viewer with Mermaid support, syntax highlighting, and an elegant IntelliJ-inspired dark theme.
+
